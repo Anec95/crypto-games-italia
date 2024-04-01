@@ -7,8 +7,10 @@
     --shadow_brown: #3F2200;
 
     --orange: #FF5733;
+    --red: rgb(255, 49, 49);
     --flamingo: rgb(255, 16, 240);
     --green: rgb(57,255,20);
+    --white: #F1F1E6;
 }
   
   body {
